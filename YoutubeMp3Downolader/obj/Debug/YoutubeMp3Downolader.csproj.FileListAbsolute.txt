@@ -1,0 +1,14 @@
+c:\users\nikoi\documents\visual studio 2015\Projects\YoutubeMp3Downolader\YoutubeMp3Downolader\bin\Debug\YoutubeMp3Downolader.exe.config
+c:\users\nikoi\documents\visual studio 2015\Projects\YoutubeMp3Downolader\YoutubeMp3Downolader\bin\Debug\YoutubeMp3Downolader.exe
+c:\users\nikoi\documents\visual studio 2015\Projects\YoutubeMp3Downolader\YoutubeMp3Downolader\bin\Debug\YoutubeMp3Downolader.pdb
+c:\users\nikoi\documents\visual studio 2015\Projects\YoutubeMp3Downolader\YoutubeMp3Downolader\bin\Debug\libvideo.dll
+c:\users\nikoi\documents\visual studio 2015\Projects\YoutubeMp3Downolader\YoutubeMp3Downolader\bin\Debug\MediaToolkit.dll
+c:\users\nikoi\documents\visual studio 2015\Projects\YoutubeMp3Downolader\YoutubeMp3Downolader\bin\Debug\Newtonsoft.Json.dll
+c:\users\nikoi\documents\visual studio 2015\Projects\YoutubeMp3Downolader\YoutubeMp3Downolader\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\nikoi\documents\visual studio 2015\Projects\YoutubeMp3Downolader\YoutubeMp3Downolader\bin\Debug\Newtonsoft.Json.xml
+c:\users\nikoi\documents\visual studio 2015\Projects\YoutubeMp3Downolader\YoutubeMp3Downolader\obj\Debug\YoutubeMp3Downolader.csprojResolveAssemblyReference.cache
+c:\users\nikoi\documents\visual studio 2015\Projects\YoutubeMp3Downolader\YoutubeMp3Downolader\obj\Debug\YoutubeMp3Downolader.Form1.resources
+c:\users\nikoi\documents\visual studio 2015\Projects\YoutubeMp3Downolader\YoutubeMp3Downolader\obj\Debug\YoutubeMp3Downolader.Properties.Resources.resources
+c:\users\nikoi\documents\visual studio 2015\Projects\YoutubeMp3Downolader\YoutubeMp3Downolader\obj\Debug\YoutubeMp3Downolader.csproj.GenerateResource.Cache
+c:\users\nikoi\documents\visual studio 2015\Projects\YoutubeMp3Downolader\YoutubeMp3Downolader\obj\Debug\YoutubeMp3Downolader.exe
+c:\users\nikoi\documents\visual studio 2015\Projects\YoutubeMp3Downolader\YoutubeMp3Downolader\obj\Debug\YoutubeMp3Downolader.pdb
